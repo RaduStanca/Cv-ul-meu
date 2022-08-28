@@ -1,0 +1,79 @@
+body{
+    background-color: #449aeb;
+}
+
+h1{
+    margin-top: 0px;
+    margin-left: 30px;
+    color: #ffffff;
+}
+
+h2{
+    margin-left: 30px;
+    color:#ffffff;
+}
+
+.primul{
+    font-size: 14px;
+    color: #ffffff;
+}
+.al-doilea{
+    margin-left: 15px;
+    font-size: 14px;
+    color: #ffffff;
+}
+#border1:hover{
+    padding: 10px;
+    border-style: solid;
+    border-radius: 10px;
+    color: #ffff00;
+    background-color: black; 
+}
+
+
+.container1{
+    margin-left: 30px;
+    color:#ffffff;
+    font-weight: bold;
+} 
+
+.lista1{
+    font-size: 18px;
+    margin-left: 10px;
+    color: #ffffff;
+}
+
+.lista2{
+    margin-left: 10px;
+    display: inline-block;
+    color: #ffffff;
+}
+
+.lista3{
+    margin-left: 10px;
+    color: #ffffff;
+    display: inline-block;
+}
+
+.paragraph1{
+    margin-left: 32px;
+    font-size: 17px;
+    font-style: italic;
+     
+}
+
+.container2{
+    display: inline-block;
+    font-weight: bold;
+}
+
+.container3{
+    display: inline-block;
+    margin-left: 25px;
+    font-weight: bold;
+    
+}
+
+
+
+
